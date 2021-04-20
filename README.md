@@ -23,10 +23,3 @@
 
 参考：影廊
 https://store.steampowered.com/app/1025250/Shadow_Corridor/?l=japanese
-
-test
-
-| ファイル名 | 作成日 | 機能 |
-|:-----------|------------:|:------------:|
-| カウンターGUIver2.py        | XXXX/XX/XX        | aaa         |
-| カウンターGUI+マッピングGUI.py      | XXXX/XX/XX      | bbb       |
